@@ -21,8 +21,5 @@ Here - <br>
 3 - Perform Deletion by double clicking on the textarea whenever needed.
 <br>
 <br>
-<br>
-<br>
-<br>
 
-manifest.json file contains the structural code that is used to load the extension in th browser .
+## manifest.json file contains the structural code that is used to load the extension in the browser .
