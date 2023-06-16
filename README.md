@@ -3,10 +3,6 @@
 This is Note Keeping Application which allows the user to keep up their Day-to-Day tasks and Notes.<br>
 This uses local storage so if we close the browser or reload the browser it will remain as it is.
 <br>
-<br>
-<br>
-<br>
-
 #Outlook
 The Crome Extension looks like - <br>
-<img src = "pic1.jpeg" height="100px" width="100px"> 
+<img src = "pic1.jpeg" height="300px" width="200px"> 
