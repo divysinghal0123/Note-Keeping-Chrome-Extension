@@ -6,4 +6,11 @@ This uses local storage so if we close the browser or reload the browser it will
 <br>
 #Outlook
 The Crome Extension looks like - <br>
-<img src = "pic1.jpeg" height="400px" width="300px" align-items="center"> 
+<br>
+<img src = "pic1.jpeg" height="400px" width="300px" align="center"><br>
+This is The Basic Outlook of the Extension <br>
+Here - <br>
+1 - We Can add sections/Notes to enter.<br>
+2 - We can update them anytime according to our use.
+<img src = "pic2.jpeg"><br>
+3 - Perform Deletion by double clicking on the textarea whenever needed.
