@@ -8,5 +8,5 @@ This uses local storage so if we close the browser or reload the browser it will
 <br>
 
 #Outlook
-The Crome Extension looks like -
-<img src = "pic1.jpeg"> 
+The Crome Extension looks like - <br>
+<img src = "pic1.jpeg" height="100px" width="100px"> 
