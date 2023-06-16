@@ -21,5 +21,13 @@ Here - <br>
 3 - Perform Deletion by double clicking on the textarea whenever needed.
 <br>
 <br>
-
-## manifest.json file contains the structural code that is used to load the extension in the browser .
+ manifest.json file contains the structural code that is used to load the extension in the browser .
+ <br>
+ <br>
+ # Steps - <br>
+ <br>
+ 1 - Download the complete code as zip file and extract the code.<br>
+ 2 - Now Open your Browser , and go to manage extensions.<br>
+ 3 - Now enable Developer Mode , you will see three options load unpacked , packed extensions , update .<br>
+ 4 - Click on Load Unpacked and select the folder Downloaded.<br>
+ 5 - Chrome Extension Added fo your use. <br>
